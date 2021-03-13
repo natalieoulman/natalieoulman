@@ -1,10 +1,10 @@
-<h1 style="color:pink" align="center">WELCOME TO MY HAPPY PLACE</h1>
+<h1 align="center">WELCOME TO MY HAPPY PLACE</h1>
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/71950538/111040340-6cbde380-83e7-11eb-8edf-cc1a9c295f58.jpeg">
 </p>
 
 
-
+<h2 align="center">What's keeping Natalie busy...</h2>
 🔭 I’m currently working on my personal website
  
 🌱 I’m currently learning about how to implement trees
