@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalieoulman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalieoulman&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
