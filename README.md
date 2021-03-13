@@ -1,3 +1,4 @@
+![nerdschalk com-abd6d8e6-6815-4c85-93d0-43140e0d90a3](https://user-images.githubusercontent.com/71950538/111040242-e2757f80-83e6-11eb-8dad-c8dd1001cce7.jpeg)
 
 ### Hi there 👋
 [![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalieoulman&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
