@@ -19,6 +19,6 @@
 
 <h2 align="center">GitHub Stats</h2><br>
 
-[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalieoulman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Natalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
