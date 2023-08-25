@@ -7,11 +7,11 @@
 
 <h2 align="center">What's keeping Natalie busy...</h2>
 
-🔭 I’m currently working on my personal website
+🔭 I’m currently working on getting my BA in Comp Sci
  
-🌱 I’m currently learning about how to implement trees
+🌱 I’m currently learning about Github
 
-👯 I’m collaborating on a group project called pour-decisions with some of my fellow Hackbright Alum 
+👯 I’m collaborating on a group project. Details coming soon.
  
 🤔 I’m looking for help with interview practice and talking about coding in general
 
