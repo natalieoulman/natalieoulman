@@ -7,7 +7,7 @@
 
 <h2 align="center">What's keeping Natalie busy...</h2>
 
-🔭 I’m currently working on getting my BA in Comp Sci
+🔭 I’m currently working on getting my BS in Computer Science
  
 🌱 I’m currently learning about Github
 
